@@ -1,0 +1,7 @@
+CONSIGNA:
+
+- Crea de manera dinámica un formulario, es decir, cuando se cargue la página. ✅
+
+- Para ello deberás crear los nodos elementos, añadirlos como hijos de sus padres, crear los hijos de éstos y añadirlos también y así sucesivamente. Ten en cuenta que el formulario deberá tener los atributos necesarios para  que, al crearse, tenga la misma funcionalidad que el que creaste en html. ✅
+
+- No olvides añadir las etiquetas <label> a cada uno de los elementos. ✅
