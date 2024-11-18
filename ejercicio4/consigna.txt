@@ -1,0 +1,12 @@
+Ejercicio 4
+------------
+Crea una aplicación que te permitirá generar tus propios formularios de manera dinámica. Para ello dibuja una fila con varios botones, que realicen lo siguiente:
+
+- Crear un input de tipo texto. Le preguntará al usuario mediante un prompt qué nombre (atributo name) tiene el input. ✅
+- Crear un input de tipo password. Le preguntará al usuario mediante un prompt qué nombre (atributo name) tiene el  input. ✅
+- Crear un textarea. Le preguntará al usuario mediante un prompt el nombre y generará automáticamente un textarea de 40 columnas y 5  filas. ✅
+- Crear un label. Preguntará al usuario a qué input va referido (atributo for). Además se preguntará qué texto mostrará dicho label.❌
+- Crear una imagen. Preguntará al usuario qué ruta tiene la imagen (atributo src).✅
+- Crear un checkbox. Preguntará al usuario el nombre y el valor (atributos name y value).  ✅
+- Crear un radio. Preguntará al usuario el nombre y el valor (atributos name y value). ✅
+- Crear un botón (submit). Preguntará al usuario el nombre y el valor (atributos name y value). ✅
